@@ -1,240 +1,194 @@
 <div align="center">
 
-<img src="./assets/devops-profile-banner.png" alt="Parvesh Mushraf P - Cloud & DevOps Engineer" width="100%">
+<table>
+<tr>
+<td align="center" width="900" bgcolor="#0B3D2E">
 
 <br>
 
+# <font color="#4ADE80">Parvesh Mushraf P</font>
 
+### <font color="#D1FAE5">Cloud & DevOps Engineer</font>
 
+AWS · Terraform · Docker · Kubernetes · CI/CD · Cloud Security · Observability
 
+<br>
 
-</div>
+<a href="https://github.com/Innovator-muji">
+<img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github" />
+</a>
 
-About
+<a href="https://www.linkedin.com/in/parvesh-mushraf-p-b6b35024/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin" />
+</a>
 
-Cloud & DevOps Engineer focused on building secure, scalable and automated cloud infrastructure.
+<a href="mailto:parveshdevops19@gmail.com">
+<img src="https://img.shields.io/badge/Email-16A34A?style=flat-square&logo=gmail&logoColor=white" />
+</a>
 
-Hands-on experience across AWS infrastructure, Infrastructure as Code, containerization, CI/CD, security, and observability in company projects.
-
-Tech Stack
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-☁️ Cloud & Infrastructure
-
-AWS
-
-VPC · EC2 · ECR · ECS · EKS
-
-S3 · RDS · CloudFront · WAF
-
-</td>
-<td width="50%" valign="top">
-
-🏗️ Infrastructure as Code
-
-Terraform
-
-Reusable Infrastructure
-
-Modules · Automation · State Management
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-🔄 CI/CD & Automation
-
-GitHub Actions · Jenkins
-
-GitLab CI/CD · Git
-
-</td>
-<td width="50%" valign="top">
-
-🐳 Containers & Orchestration
-
-Docker · Amazon ECR
-
-Amazon ECS · Amazon EKS
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-📊 Observability
-
-CloudWatch · Prometheus · Grafana
-
-Metrics · Logs · Dashboards · Monitoring
-
-</td>
-<td width="50%" valign="top">
-
-🔐 Security
-
-AWS WAF · IAM · Snyk
-
-Security controls · Vulnerability scanning
+<br><br>
 
 </td>
 </tr>
 </table>
 
-🏢 Company Project Experience
+</div>
+
+---
+
+## 👋 About
+
+Cloud & DevOps Engineer focused on building **secure, scalable and automated cloud infrastructure**.
+
+Experienced with AWS infrastructure, Infrastructure as Code, containerization, CI/CD pipelines, security, monitoring and observability.
+
+---
+
+## 🛠️ Technology Stack
+
+### ☁️ Cloud
+
+`AWS` `VPC` `EC2` `ECR` `ECS` `EKS` `S3` `RDS` `CloudFront` `WAF`
+
+### 🏗️ Infrastructure as Code
+
+`Terraform`
+
+### 🐳 Containers
+
+`Docker` `Amazon ECR` `Amazon ECS` `Amazon EKS`
+
+### 🔄 CI/CD
+
+`GitHub Actions` `Jenkins` `GitLab CI/CD` `Git`
+
+### 📊 Monitoring & Observability
+
+`CloudWatch` `Prometheus` `Grafana`
+
+### 🔐 Security
+
+`AWS WAF` `IAM` `Snyk`
+
+---
+
+## 🏢 Company Project Experience
 
 <div align="center">
 
-☁️ Cloud
+| Area | Technologies |
+|:---|:---|
+| ☁️ **Cloud** | AWS · VPC · EC2 · ECS · EKS |
+| 🏗️ **Infrastructure** | Terraform |
+| 🐳 **Containers** | Docker · ECR · ECS · EKS |
+| 🔄 **CI/CD** | GitHub Actions · Jenkins · GitLab CI/CD |
+| 🔐 **Security** | WAF · IAM · Snyk |
+| 📊 **Observability** | CloudWatch · Prometheus · Grafana |
+| 🌐 **Delivery** | CloudFront · S3 |
+| 🗄️ **Database** | RDS |
 
-🏗️ IaC
+</div>
 
-🐳 Containers
+---
 
-🔄 CI/CD
+## ⚙️ DevOps
 
-AWS
+<div align="center">
 
-Terraform
+**CODE**
 
-Docker
+↓  
 
-GitHub Actions
+**GIT**
 
-VPC · EC2
+↓  
 
-Modules
+**CI/CD**
 
-ECR
+`GitHub Actions` · `Jenkins` · `GitLab CI/CD`
 
-Jenkins
+↓
 
-ECS · EKS
+**BUILD & SECURITY**
 
-Automation
+`Docker` · `Snyk`
 
-ECS · EKS
+↓
 
-GitLab CI/CD
+**CONTAINER REGISTRY**
 
-S3 · RDS
+`Amazon ECR`
 
-State
+↓
 
-Orchestration
+**DEPLOY**
 
-Git
+`Amazon ECS` · `Amazon EKS`
+
+↓
+
+**AWS**
+
+`VPC` · `EC2` · `S3` · `RDS` · `CloudFront` · `WAF`
+
+↓
+
+**OBSERVABILITY**
+
+`CloudWatch` · `Prometheus` · `Grafana`
+
+</div>
+
+---
+
+## 🎯 Core Skills
+
+<div align="center">
+
+`☁️ Cloud Architecture`
+
+`🏗️ Infrastructure as Code`
+
+`🐳 Containerization`
+
+`☸️ Container Orchestration`
+
+`🔄 CI/CD Automation`
+
+`🔐 Cloud Security`
+
+`📊 Monitoring`
+
+`📈 Observability`
+
+`⚙️ Automation`
+
+</div>
+
+---
+
+## 📫 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Parvesh%20Mushraf%20P-16A34A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parvesh-mushraf-p-b6b35024/)
+
+[![Email](https://img.shields.io/badge/Email-parveshdevops19%40gmail.com-16A34A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parveshdevops19@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+😄 **Pronouns:** He / Him
+
+⚡ **Fun fact:** I enjoy turning complex infrastructure problems into clean, automated solutions.
+
+🤖 **Fun fact:** If it can be automated, I'll probably try to automate it.
 
 <br>
 
-🔐 Security
-
-📊 Observability
-
-🌐 Delivery
-
-🗄️ Data
-
-WAF
-
-CloudWatch
-
-CloudFront
-
-RDS
-
-IAM
-
-Prometheus
-
-S3
-
-AWS
-
-Snyk
-
-Grafana
-
-CDN
-
-Databases
-
-</div>
-
-⚙️ DevOps Architecture
-
-<div align="center">
-
-   SOURCE
-      │
-      ▼
- Git / GitHub
-      │
-      ▼
- ┌───────────────┐
- │     CI/CD     │
- │ Actions       │
- │ Jenkins       │
- │ GitLab CI/CD  │
- └───────┬───────┘
-         │
-         ▼
- ┌────────────────┐
- │ Build + Secure │
- │ Docker + Snyk  │
- └───────┬────────┘
-         │
-         ▼
-    Amazon ECR
-         │
-         ▼
- ┌─────────────────┐
- │    DEPLOYMENT   │
- │   ECS / EKS     │
- └────────┬────────┘
-          │
-          ▼
- ┌────────────────────────────┐
- │            AWS             │
- │ VPC · EC2 · S3 · RDS       │
- │ CloudFront · WAF           │
- └────────────┬───────────────┘
-              │
-              ▼
- ┌────────────────────────────┐
- │       OBSERVABILITY        │
- │ CloudWatch · Prometheus    │
- │ Grafana                    │
- └────────────────────────────┘
-
-</div>
-
-🧩 Core Capabilities
-
-<div align="center">
-
-CLOUD ARCHITECTURE · INFRASTRUCTURE AS CODE · CONTAINERIZATION
-
-CI/CD AUTOMATION · SECURITY · OBSERVABILITY
-
-RELIABILITY · SCALABILITY · AUTOMATION
-
-</div>
-
-📫 Connect
-
-📫 LinkedIn: parvesh-mushraf-p
-
-📧 Email: parveshdevops19@gmail.com
-
-<div align="center">
-
-⚡ Build · Automate · Deploy · Monitor
+### <font color="#16A34A">Build · Automate · Deploy · Monitor</font>
 
 </div>
