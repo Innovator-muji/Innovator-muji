@@ -1,106 +1,103 @@
 <div align="center">
 
-<img src="./assets/devops-hero.gif" alt="Animated Cloud and DevOps banner" width="100%">
-
-Parvesh Mushraf P
-
-Cloud & DevOps Engineer
-
-AWS · Terraform · Docker · Kubernetes · GitHub Actions · Jenkins · GitLab CI/CD
-
-
-
-
-
-</div>
-
-👋 About
-
-Cloud & DevOps Engineer focused on cloud infrastructure, Infrastructure as Code, containerization, CI/CD, security, and observability.
-
-Hands-on experience working on company projects involving scalable AWS environments, automated delivery pipelines, container orchestration, monitoring, and cloud security.
-
-⚡ Tech Stack
-
-<div align="center">
-
-Cloud & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,linux,git" />
+<img src="./assets/devops-profile-banner.png" alt="Parvesh Mushraf P - Cloud & DevOps Engineer" width="100%">
 
 <br>
 
-VPC · EC2 · ECR · ECS · EKS · S3 · RDS · CloudFront · WAF
 
-CI/CD & Automation
 
-GitHub Actions · Jenkins · GitLab CI/CD · Git
 
-Monitoring & Observability
-
-Amazon CloudWatch · Prometheus · Grafana
-
-Security
-
-AWS WAF · IAM · Snyk
 
 </div>
 
-🏢 Company Project Experience
+About
 
-Area
+Cloud & DevOps Engineer focused on building secure, scalable and automated cloud infrastructure.
 
-Experience
+Hands-on experience across AWS infrastructure, Infrastructure as Code, containerization, CI/CD, security, and observability in company projects.
 
-☁️ Cloud Infrastructure
+Tech Stack
 
-AWS VPC, EC2, ECR, ECS, EKS, S3, RDS, CloudFront, WAF with Terraform
+<table>
+<tr>
+<td width="50%" valign="top">
+
+☁️ Cloud & Infrastructure
+
+AWS
+
+VPC · EC2 · ECR · ECS · EKS
+
+S3 · RDS · CloudFront · WAF
+
+</td>
+<td width="50%" valign="top">
 
 🏗️ Infrastructure as Code
 
-Terraform-based provisioning and repeatable infrastructure
+Terraform
 
-🐳 Containers
+Reusable Infrastructure
 
-Docker, Amazon ECR, ECS and EKS
+Modules · Automation · State Management
 
-🔄 CI/CD
+</td>
+</tr>
 
-GitHub Actions, Jenkins and GitLab CI/CD
+<tr>
+<td width="50%" valign="top">
+
+🔄 CI/CD & Automation
+
+GitHub Actions · Jenkins
+
+GitLab CI/CD · Git
+
+</td>
+<td width="50%" valign="top">
+
+🐳 Containers & Orchestration
+
+Docker · Amazon ECR
+
+Amazon ECS · Amazon EKS
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 📊 Observability
 
-CloudWatch, Prometheus and Grafana
+CloudWatch · Prometheus · Grafana
+
+Metrics · Logs · Dashboards · Monitoring
+
+</td>
+<td width="50%" valign="top">
 
 🔐 Security
 
-AWS WAF, IAM and Snyk
+AWS WAF · IAM · Snyk
 
-🌐 Delivery
+Security controls · Vulnerability scanning
 
-CloudFront and S3
+</td>
+</tr>
+</table>
 
-🗄️ Database
+🏢 Company Project Experience
 
-Amazon RDS
+<div align="center">
 
-🔄 DevOps
+☁️ Cloud
 
-Code → Git → CI/CD → Build & Security → ECR → ECS / EKS
-                                      ↓
-AWS: VPC · EC2 · S3 · RDS · CloudFront · WAF
-                                      ↓
-                    CloudWatch · Prometheus · Grafana
+🏗️ IaC
 
-🎯 Core Areas
+🐳 Containers
 
-Cloud
-
-IaC
-
-Containers
-
-CI/CD
+🔄 CI/CD
 
 AWS
 
@@ -110,7 +107,7 @@ Docker
 
 GitHub Actions
 
-VPC
+VPC · EC2
 
 Modules
 
@@ -118,21 +115,31 @@ ECR
 
 Jenkins
 
-ECS / EKS
+ECS · EKS
 
 Automation
 
-ECS / EKS
+ECS · EKS
 
 GitLab CI/CD
 
-Security
+S3 · RDS
 
-Observability
+State
 
-Delivery
+Orchestration
 
-Data
+Git
+
+<br>
+
+🔐 Security
+
+📊 Observability
+
+🌐 Delivery
+
+🗄️ Data
 
 WAF
 
@@ -156,7 +163,75 @@ Grafana
 
 CDN
 
+Databases
 
+</div>
+
+⚙️ DevOps Architecture
+
+<div align="center">
+
+   SOURCE
+      │
+      ▼
+ Git / GitHub
+      │
+      ▼
+ ┌───────────────┐
+ │     CI/CD     │
+ │ Actions       │
+ │ Jenkins       │
+ │ GitLab CI/CD  │
+ └───────┬───────┘
+         │
+         ▼
+ ┌────────────────┐
+ │ Build + Secure │
+ │ Docker + Snyk  │
+ └───────┬────────┘
+         │
+         ▼
+    Amazon ECR
+         │
+         ▼
+ ┌─────────────────┐
+ │    DEPLOYMENT   │
+ │   ECS / EKS     │
+ └────────┬────────┘
+          │
+          ▼
+ ┌────────────────────────────┐
+ │            AWS             │
+ │ VPC · EC2 · S3 · RDS       │
+ │ CloudFront · WAF           │
+ └────────────┬───────────────┘
+              │
+              ▼
+ ┌────────────────────────────┐
+ │       OBSERVABILITY        │
+ │ CloudWatch · Prometheus    │
+ │ Grafana                    │
+ └────────────────────────────┘
+
+</div>
+
+🧩 Core Capabilities
+
+<div align="center">
+
+CLOUD ARCHITECTURE · INFRASTRUCTURE AS CODE · CONTAINERIZATION
+
+CI/CD AUTOMATION · SECURITY · OBSERVABILITY
+
+RELIABILITY · SCALABILITY · AUTOMATION
+
+</div>
+
+📫 Connect
+
+📫 LinkedIn: parvesh-mushraf-p
+
+📧 Email: parveshdevops19@gmail.com
 
 <div align="center">
 
